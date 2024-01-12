@@ -6,7 +6,19 @@ Babely is a unique creative platform that brings together the encrypted permanen
 
 [**Try out Babely: Web, Android, iOS apps available! WeChat, Telegram communities and more**](https://u.babely.cc/#/pages/user-resource)
 
-### Babely, the Babel Library of infinte possibilities in multiverse, user creations & exchange service.
+### What is Babely?
+
+Babely, the multiverse of infinite possibilities.
+
+In the book of Genesis in the Bible, God created the world and humanity, and humans scattered across the earth to multiply and thrive. One day, ancient humans decided to build a tower called the Tower of Babel. At that time, everyone spoke the same language and had a common goal, so they successfully built a tower that reached into the sky. However, when the tower was about to reach the heavens, God became fearful and disrupted the language of humans, making it impossible for them to understand each other. They began to quarrel and the Tower of Babel was never completed, gradually collapsing into ruins.
+
+The Argentine writer Jorge Luis Borges wrote a famous novel in 1941 called "The Library of Babel," which introduced a fascinating concept. The Library of Babel is a vast and mysterious library that contains all possible combinations of words. According to the description, this library is located in the infinite expanse of the universe. Wherever a person stands, they see walls of books extending infinitely in all directions, composed of countless hexagonal bookshelves. Any two adjacent books on a shelf differ by only one letter. Despite such a simple and subtle difference, as long as you walk along the walls of books, go around enough bends, you will inevitably find any book you desire. In this boundless library, all combinations of languages, subjects, and meanings exist, encompassing all possibilities of the past, present, and future. Everything already exists, waiting to be discovered.
+
+In Eastern Buddhist philosophy, there is also the concept of the "Three Thousandfold World," which depicts an infinite and complex cosmic structure. The "Three Thousandfold World" is composed of countless "Mahāsaha-loka" (great thousandfold worlds). Each great thousandfold world contains numerous "Madhya-loka" (middle thousandfold worlds), within which the cycle of existence in the six realms takes place. And each middle thousandfold world contains countless "Saha-loka" (small thousandfold worlds), each with its own celestial realms, earthly realms, sentient beings, and various other forms of existence, possessing unique lives, landscapes, and laws. The "Three Thousandfold World" portrays the boundless vastness and diversity of the universe, asserting that there exist countless worlds within the cosmos, each with its distinct characteristics and forms of existence, reflecting the Buddhist view of the multitude of sentient beings.
+
+Therefore, within the concise and rule-based Library of Babel lies every possibility of the infinite Three Thousandfold World.
+
+Babely embodies the infinite possibilities of the great thousandfold world, holding your creations, waiting your discovery.
 
 ### NFT, making creators true owners
 
@@ -24,7 +36,7 @@ Every stroke and every detail of a work is unique. We have adopted IPFS storage 
 
 The journey of creation can be lonely and challenging, but you won't be alone. Babely has built a global creator community, attracting partners from all over the world. Here, you can exchange creative experiences, receive professional advice, and make like-minded friends, growing and inspiring more creative ideas together.
 
-### Zero barriers to global AI
+### AI-assisted creation
 
 Have you ever been stuck in a creative bottleneck, desperately seeking inspiration? Don't worry, our AI assistant is ready to help at any time, with zero barriers to reach global AI, providing you with intelligent inspiration boosters. With the assistance of AI in the creative process, you will have a continuous flow of inspiration sparks that connect seemingly unrelated fragments into the most magnificent visuals, bring words to life on paper, and make videos more vibrant and emotional.
 
