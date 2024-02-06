@@ -19,4 +19,4 @@
 
 ---
 
-Looking for services in China? Take a look at [Babely China](https://github.com/babelycc/cn/)
+Looking for services in Chinese? Take a look at [Babely China](https://github.com/babelycc/cn/)
