@@ -1,4 +1,4 @@
-# Babely - Mint Infinite Possibilites
+# Babely - Mint Your Creation for Your Everlasting Gains
 
 What kind of magical performance will occur when the sparks of creativity meet Web3? Today, we would like to introduce a new concept product to everyone - Babely, The Babel Library.
 

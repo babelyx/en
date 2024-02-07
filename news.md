@@ -1,6 +1,6 @@
-# Babely - Feature Updates & News
+# Babely - Updates & News
 
-### 2024-02-06 Babely 1.0 in Google Play
+### 2024-02-06 Babely on Google Play
 
 Babely 1.0 is now available on the Google Play Store! Click [Babely on Google Play](https://gplay.babely.cc) to install on Android.
 
@@ -10,7 +10,7 @@ Babely 1.0 is now available on the Google Play Store! Click [Babely on Google Pl
 
 On the "Personal Center" page, a new section "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
 
-### 2024-01-01 Babely 1.0 in AppStore
+### 2024-01-01 Babely on AppStore
 
 On the first day of 2024, Babely 1.0 as a standalone app fully committed to Web3 is available in AppStore now! Click [Babely on AppStore](https://apps.apple.com/app/id6472632215) to install on iPhone/iPad.
 
@@ -18,7 +18,7 @@ On the first day of 2024, Babely 1.0 as a standalone app fully committed to Web3
 
 ### 2023-08-21 Localized Censorship in China Area
 
-Dear China users, due to local policies in China, to continue serving you, the local edition [Babely China: cn.babely.cc](https://u.cn.babely.cc) applies content censor for Chinese users. Everyone outside of China please visit [Babely Global: earth.babely.cc](https://u.earth.babely.cc)
+Dear China users, due to local policies in China, to continue serving you, the local edition [Babely China](https://u.cn.babely.cc) applies content censor for Chinese users. Everyone outside of China please visit [Babely Global](https://u.earth.babely.cc)
 
 ### 2023-07-01 Android App
 

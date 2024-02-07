@@ -1,13 +1,17 @@
 # Babely Global
 
-[**What is Babely？**](./home.md)
+ℹ Looking for services in Chinese? Take a look at [巴贝历-中国区](https://github.com/babelycc/cn/)
+
+---
+
+### [**What is Babely？**](./home.md)
 
 - Naming
 - Ideology
 - Vision & Features
 - Decentralized
 
-[**Feature Updates &amp; News**](./news.md)
+### [**Feature Updates &amp; News**](./news.md)
 
 - Web go online
 - iOS/Android go on shelf
@@ -15,8 +19,8 @@
 - AI supported creation
 - ......
 
-[**Nothing can compare to seeing and touching. Click here to try it now!**](https://u.babely.cc)
+[**Nothing can compare to seeing and touching by yourself. Click here to try it now!**](https://u.babely.cc)
 
 ---
 
-Looking for services in Chinese? Take a look at [Babely China](https://github.com/babelycc/cn/)
+ℹ Looking for services in Chinese? Take a look at [巴贝历-中国区](https://github.com/babelycc/cn/)
