@@ -1,8 +1,8 @@
 # Babely - Updates & News
 
-### 2024-02-08 Spring Edition on AppStore & Google Play
+### 2024-02-08 New Edition on AppStore & Google Play
 
-The Happy Spring New Year edition is now available on both AppStore and Google Play!
+Happy Lunar New Year edition is now available on both AppStore and Google Play!
 
 Android users: Click [Babely on Google Play](https://gplay.babely.cc) to install through Google Play, or click [Babely as APK](https://store.babely.cc/babely.apk) to download the official APK to install.
 
