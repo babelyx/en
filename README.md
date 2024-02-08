@@ -4,14 +4,14 @@
 
 ---
 
-### [**What is Babely？**](./home.md)
+[**What is Babely？**](./home.md)
 
 - Naming
 - Ideology
 - Vision & Features
 - Decentralized
 
-### [**Feature Updates &amp; News**](./news.md)
+[**Feature Updates &amp; News**](./news.md)
 
 - Web go online
 - iOS/Android go on shelf
@@ -19,8 +19,4 @@
 - AI supported creation
 - ......
 
-[**Nothing can compare to seeing and touching by yourself. Click here to try it now!**](https://u.babely.cc)
-
----
-
-ℹ Looking for services in Chinese? Take a look at [巴贝历-中国区](https://github.com/babelycc/cn/)
+[**No more narrative! Click here to try it now!**](https://u.babely.cc)

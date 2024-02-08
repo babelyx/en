@@ -1,6 +1,14 @@
 # Babely - Updates & News
 
-### 2024-02-06 Babely on Google Play
+### 2024-02-08 Spring Edition on AppStore & Google Play
+
+The Happy Spring New Year edition is now available on both AppStore and Google Play!
+
+Android users: Click [Babely on Google Play](https://gplay.babely.cc) to install through Google Play, or click [Babely as APK](https://store.babely.cc/babely.apk) to download the official APK to install.
+
+iOS users: Click [Babely on AppStore](https://ios.babely.cc) to install on iPhone or iPad.
+
+### 2024-02-06 Launched on Google Play
 
 Babely 1.0 is now available on the Google Play Store! Click [Babely on Google Play](https://gplay.babely.cc) to install on Android.
 
@@ -10,7 +18,7 @@ Babely 1.0 is now available on the Google Play Store! Click [Babely on Google Pl
 
 On the "Personal Center" page, a new section "Contact Customer Service" has been added for your convenience to make any complaints, comments, or suggestions.
 
-### 2024-01-01 Babely on AppStore
+### 2024-01-01 Launched on AppStore
 
 On the first day of 2024, Babely 1.0 as a standalone app fully committed to Web3 is available in AppStore now! Click [Babely on AppStore](https://apps.apple.com/app/id6472632215) to install on iPhone/iPad.
 
