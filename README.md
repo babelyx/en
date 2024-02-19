@@ -1,6 +1,6 @@
 # Babely Global
 
-ℹ Looking for services in Chinese? Take a look at [巴贝历-中国区](https://github.com/babelycc/cn/)
+ℹ Looking for services in Chinese? Take a look at [巴贝历-中国区](https://github.com/babelyx/cn/)
 
 ---
 
