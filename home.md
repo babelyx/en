@@ -50,4 +50,4 @@ In the future of AI's rise, creativity is your unique mystery and the driving fo
 
 ---
 
-**[ℹ️ Back to Contents Table](./README.md)**
+**[ℹ️ Contents Table](./README.md)**
