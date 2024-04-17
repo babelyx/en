@@ -42,4 +42,4 @@ Dear China users, due to local policies in China, to continue serving you, the l
 
 ---
 
-**[ℹ️ Contents Table](./README.md)**
+**[🔙️ Contents Table](./README.md)**
