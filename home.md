@@ -1,14 +1,14 @@
-# Babely - Plant Your Creation to Grow Your Gains Forever
+# Babelyx - Plant Your Creation to Grow Your Gains Forever
 
-What kind of magical performance will occur when the sparks of creativity meet Web3? Today, we would like to introduce a new concept product to everyone - Babely, The Babel Library.
+[🎁 Claim credit to try it now!](https://u.babelyx.com)
 
-Babely is a unique creative platform that brings together the encrypted permanent existence and benefits contract of PEX, the indestructible data security of IPFS, the digital ownership of NFT, and the most powerful intelligence of AI, providing unprecedented creative experiences and rights for everyone, allowing you to enter the future of Web3 where creators are kings!
+What kind of magical performance will occur when the sparks of creativity meet Web3? Today, we would like to introduce a new concept product to everyone - Babelyx, The Babel Library.
 
-[**Try out Babely: Web, Android, iOS apps available! WeChat, Telegram communities and more**](https://u.babely.cc/#/pages/user-resource)
+Babelyx is a unique creative platform that brings together the encrypted permanent existence and benefits contract of PEX, the indestructible data security of IPFS, the digital ownership of NFT, and the most powerful intelligence of AI, providing unprecedented creative experiences and rights for everyone, allowing you to enter the future of Web3 where creators are kings!
 
-### What is Babely?
+### What is Babelyx?
 
-Babely, the multiverse of infinite possibilities.
+Babelyx, the multiverse of infinite possibilities.
 
 In the book of Genesis in the Bible, God created the world and humanity, and humans scattered across the earth to multiply and thrive. One day, ancient humans decided to build a tower called the Tower of Babel. At that time, everyone spoke the same language and had a common goal, so they successfully built a tower that reached into the sky. However, when the tower was about to reach the heavens, God became fearful and disrupted the language of humans, making it impossible for them to understand each other. They began to quarrel and the Tower of Babel was never completed, gradually collapsing into ruins.
 
@@ -18,7 +18,7 @@ In Eastern Buddhist philosophy, there is also the concept of the "Three Thousand
 
 Therefore, within the concise and rule-based Library of Babel lies every possibility of the infinite Three Thousandfold World.
 
-Babely embodies the infinite possibilities of the great thousandfold world, holding your creations, waiting your discovery.
+Babelyx embodies the infinite possibilities of the great thousandfold world, holding your creations, waiting your discovery.
 
 ### PEX: encrypt and secure your rights
 
@@ -30,7 +30,7 @@ Every stroke and every detail of a work is unique. We have adopted IPFS storage 
 
 ### NFT: making creators true owners
 
-NFT technology has gained much attention in recent years. It gives unique value to digital assets, breaking away from monopolistic intermediary platforms, and allowing creators to truly own the sovereignty and rights of their published works, establishing direct and close connections with fans, sponsors, and investors. Babely can easily transform any work into your personal NFT, injecting an indelible and unalterable mark of ownership into your creations. Each work will be cast into a unique token that cannot be replicated or forged, protecting your authorial rights.
+NFT technology has gained much attention in recent years. It gives unique value to digital assets, breaking away from monopolistic intermediary platforms, and allowing creators to truly own the sovereignty and rights of their published works, establishing direct and close connections with fans, sponsors, and investors. Babelyx can easily transform any work into your personal NFT, injecting an indelible and unalterable mark of ownership into your creations. Each work will be cast into a unique token that cannot be replicated or forged, protecting your authorial rights.
 
 ### AIGC: AI-assisted creation
 
@@ -38,15 +38,15 @@ Have you ever been stuck in a creative bottleneck, desperately seeking inspirati
 
 ### Creators community, the nexus of inspiration
 
-The journey of creation can be lonely and challenging, but you won't be alone. Babely has built a global creator community, attracting partners from all over the world. Here, you can exchange creative experiences, receive professional advice, and make like-minded friends, growing and inspiring more creative ideas together.
+The journey of creation can be lonely and challenging, but you won't be alone. Babelyx has built a global creator community, attracting partners from all over the world. Here, you can exchange creative experiences, receive professional advice, and make like-minded friends, growing and inspiring more creative ideas together.
 
 ### Explore infinite possibilities
 
-Possibilities already exist, waiting for you to discover them. Babely is committed to enabling everyone to surpass themselves, break through conventions, and explore unknown possibilities. From weaving words to imagining images, and presenting videos, there are no boundaries. Uphold your rights and achieve infinite possibilities.
+Possibilities already exist, waiting for you to discover them. Babelyx is committed to enabling everyone to surpass themselves, break through conventions, and explore unknown possibilities. From weaving words to imagining images, and presenting videos, there are no boundaries. Uphold your rights and achieve infinite possibilities.
 
 In the future of AI's rise, creativity is your unique mystery and the driving force behind the world's development. We invite you to join the Web3 creator community, unlock your creativity, and explore all possibilities. Here, you will discover that behind every creation, there is a story, and behind every NFT, there is an emotion.
 
-[**Claim credits to experience Babely now!**](https://u.babely.cc)
+[**Claim credits to experience Babelyx now!**](https://u.babelyx.com)
 
 ---
 
