@@ -1,53 +1,58 @@
-# Babelyx - Plant Your Creation to Grow Your Gains Forever
+# Babelyx - The UGC Community and Marketplace of Infinite Possibilities
 
-[🎁 Claim credit to try it now!](https://u.babelyx.com)
+[🎁 Claim your reward and try it now](https://u.babelyx.com/)
 
-What kind of magical performance will occur when the sparks of creativity meet Web3? Today, we would like to introduce a new concept product to everyone - Babelyx, The Babel Library.
+What miracles can arise when your creativity meets Web3? **Babelyx** , a unique user-sovereign content community and marketplace, offering an unprecedented creative experience and rights protection for everyone. Let's step into the Web3 world where users reign supreme!
 
-Babelyx is a unique creative platform that brings together the encrypted permanent existence and benefits contract of PEX, the indestructible data security of IPFS, the digital ownership of NFT, and the most powerful intelligence of AI, providing unprecedented creative experiences and rights for everyone, allowing you to enter the future of Web3 where creators are kings!
+### Why is it called Babelyx?
 
-### What is Babelyx?
+In the **Book of Genesis** from the Bible, God created the world and humanity, who then spread across the Earth. One day, ancient humans decided to build the **Tower of Babel** . At that time, everyone spoke the same language and shared a common goal, successfully constructing a towering structure. When the tower was about to reach the heavens, God became fearful and confused their language, causing people to be unable to understand each other and to fight among themselves. Consequently, the tower was never completed and eventually crumbled into ruins.
 
-Babelyx, the multiverse of infinite possibilities.
+Argentinian writer **Julio Cortázar** proposed a magical concept in his famous 1941 novella, **The Library of Babel** . This library is a simple yet infinite library containing all possible combinations of letters. In this library, standing at any position and looking around, one would see endless bookshelves composed of countless hexagonal bookcases. Each bookcase contains books where any two adjacent books differ by only one letter. Despite such minuscule differences, if you walk far enough along the bookshelves and take enough turns, you will inevitably find any book you desire. This boundless library contains all languages, all subjects, and all meanings, encompassing the past, present, and all possible futures, waiting to be discovered.
 
-In the book of Genesis in the Bible, God created the world and humanity, and humans scattered across the earth to multiply and thrive. One day, ancient humans decided to build a tower called the Tower of Babel. At that time, everyone spoke the same language and had a common goal, so they successfully built a tower that reached into the sky. However, when the tower was about to reach the heavens, God became fearful and disrupted the language of humans, making it impossible for them to understand each other. They began to quarrel and the Tower of Babel was never completed, gradually collapsing into ruins.
+In Eastern Buddhism, there's the concept of the **Three Thousand Great Thousand Worlds** , depicting a macro-to-microcosmic structure of the universe. These worlds consist of countless great thousand worlds (Mahāsaha-loka), each containing numerous middle thousand worlds (Madhya-loka), within which exist the six realms of reincarnation. Each middle thousand world houses numerous small thousand worlds (Saha-loka), each with its own heavens, earth, sentient beings, and various forms of existence, possessing unique life, landscapes, and rules. This concept illustrates the vastness and diversity of the universe, where countless worlds, large and small, exist, each with its distinct characteristics and forms of existence, representing the boundless sentient beings in Buddhism.
 
-The Argentine writer Jorge Luis Borges wrote a famous novel in 1941 called "The Library of Babel," which introduced a fascinating concept. The Library of Babel is a simple but infinite library that contains all possible combinations of words. In the Library of Babel, regardless of where a person stands, looking around in all directions, there are walls of books extending infinitely, composed of countless hexagonal bookshelves. Any two adjacent books on a shelf differ by only one letter. Despite such a simple and subtle difference, as long as you walk along the walls of books, go around enough bends, you will inevitably find any book you desire. In this boundless library, all combinations of languages, subjects, and meanings exist, encompassing all possibilities of the past, present, and future. Everything already exists, waiting to be discovered.
+**Babelyx** is the community and marketplace of infinite possibilities, a sanctuary for creating, preserving, and realizing every potential.
 
-In Eastern Buddhist philosophy, there is also the concept of the "Three Thousandfold World," which depicts a cosmic structure from the macroscopic to the microscopic level. The "Three Thousandfold World" is composed of countless "Mahāsaha-loka" (great thousandfold worlds). Each great thousandfold world contains numerous "Madhya-loka" (middle thousandfold worlds), within which the cycle of existence in the six realms takes place. And each middle thousandfold world contains countless "Saha-loka" (small thousandfold worlds), each with its own celestial realms, earthly realms, sentient beings, and various other forms of existence, possessing unique lives, landscapes, and laws. The "Three Thousandfold World" portrays the boundless vastness and diversity of the universe, asserting that there exist countless worlds within the cosmos, each with its distinct characteristics and forms of existence, reflecting the Buddhist view of the multitude of sentient beings.
+### What Can Babelyx Do?
 
-Therefore, within the concise and rule-based Library of Babel lies every possibility of the infinite Three Thousandfold World.
+Babelyx transforms any content you publish into a **BLX** for free, automatically operating according to built-in contracts, empowering assets to circulate and appreciate autonomously, enhancing everyone's rights and benefits.
 
-Babelyx embodies the infinite possibilities of the great thousandfold world, holding your creations, waiting your discovery.
+As a user, every spontaneous publication you make becomes an encrypted asset and a perpetual store, bringing you continuous revenue and unlocking infinite possibilities.
 
-### PEX: encrypt and secure your rights
+This is made possible by our patented **BLX** technology, seamlessly integrating the data security of IPFS, the digital ownership of NFTs, and the smart contracts of Ethereum, along with powerful AI-assisted creation, providing you with an unprecedented experience and protection.
 
-The sparks of creativity and the hard work put into creation deserve respect and reward. Therefore, we have encrypted and protected each work at the elliptic curve level of blockchain, fundamentally preventing illegal copying and dissemination. If other users want to appreciate or own your work, they must pay decryption fees to you, safeguarding your rights as a creator. This not only brings long-term and stable income for creators but also keeps users' enthusiasm for participation high.
+BLX Features:
 
-### IPFS: guarding your data invincibly
+1. **Sealed NFT**
+   Since its rise in 2021, NFT technology has garnered significant attention, transforming digital content into unique assets and forging direct, intimate connections between creators, fans, sponsors, and investors. (See [NFTs: Empowering Creators in the Digital World](https://learn.metamask.io/lessons/nfts-and-creators))
 
-Every stroke and every detail of a work is unique. We have adopted IPFS storage protection technology to make every byte of your work invulnerable. IPFS (InterPlanetary File System) is a decentralized, content-addressed, globally distributed file storage system that can fragmentize your work and distribute it among numerous nodes in the global network. This means that even if some nodes fail or are tampered with, your work remains safely stored in other nodes, never lost or counterfeited. Through the Merkle tree hash address, the content of the work is completely locked using mathematical principles, making it impossible even for a Thanos-like figure to alter it.
+   However, NFTs are merely "certificates of authenticity". While the certificates themselves are unreplicable and tamper-proof through blockchain technology, the digital content they refer to is still as vulnerable as traditional internet (Web2) content, lacking privacy protection and being accessible, downloadable, and copyable by anyone. This limits the application scenarios of NFT technology, primarily thriving in the digital art domain.
 
-### NFT: making creators true owners
+   **BLX** has a feature of **Sealed NFT** , i.e. "certificates of encrypted existence". It first encrypts each piece of digital content in a decentralized manner, permanently storing it in the IPFS decentralized file system, then mints it into an NFT, fundamentally preventing unauthorized access, copying, and distribution of the digital content. Other users must pay a decryption fee to the Sealed NFT owner to access the actual digital content.
 
-NFT technology has gained much attention in recent years. It gives unique value to digital assets, breaking away from monopolistic intermediary platforms, and allowing creators to truly own the sovereignty and rights of their published works, establishing direct and close connections with fans, sponsors, and investors. Babelyx can easily transform any work into your personal NFT, injecting an indelible and unalterable mark of ownership into your creations. Each work will be cast into a unique token that cannot be replicated or forged, protecting your authorial rights.
+   Thus, BLX uses mathematical principles to absolutely guarantee the privacy and security of your digital content.
 
-### AIGC: AI-assisted creation
+2. **Autonomous Marketplace**
+   BLX is not just a sealed NFT but also an autonomous marketplace run by smart contracts. Each BLX inherently includes multiple smart contracts, each defining a role's rights, enabling digital assets to support various participant roles and engage in decentralized transactions anytime, anywhere, just like offline assets. For example:
 
-Have you ever been stuck in a creative bottleneck, desperately seeking inspiration? Don't worry, our AI assistant is ready to help at any time, with zero barriers to reach global AI, providing you with intelligent inspiration boosters. With the assistance of AI in the creative process, you will have a continuous flow of inspiration sparks that connect seemingly unrelated fragments into the most magnificent visuals, bring words to life on paper, and make videos more vibrant and emotional.
+   - Creator Contract : Once the original creator mints digital content into BLX, it automatically becomes an indelible, unalterable, unique, and permanent mark. In all subsequent appreciation of this asset, the original creator will automatically receive corresponding returns according to the contract.
+   - Visitor Contract : Sets a decryption fee for visitors. A user who pays the decryption fee becomes an "accessor," able to decrypt and access the digital content.
+   - Buyer Contract : Sets a purchase fee for buyers. A user who pays the purchase fee becomes a "holder," owning a certain share of the asset. Holding rights apply to limited-supply shared assets such as book copies, movie tickets, membership statuses, restaurant seats, rental time slots, etc. Users can transfer their limited slots, promoting sharing, circulation, and appreciation.
+   - Owner Contract : Records the current owner of the asset and the buyout price for full ownership. Other users can acquire the asset by purchasing it outright, becoming the new owner. Each asset can only belong to one owner at any given time. The access, holding, rental, and other revenue from the asset are enjoyed by its current owner.
+   - Additional contracts : Beyond these roles, assets can have more detailed or extended roles such as agents, operators, renters, and more.
 
-### Creators community, the nexus of inspiration
+   A BLX with multi-role trading contracts operates like a perpetual self-running store. Without owner intervention, the asset can circulate and appreciate among different user roles, providing long-term stable income for creators and maintaining high enthusiasm for various user types.
 
-The journey of creation can be lonely and challenging, but you won't be alone. Babelyx has built a global creator community, attracting partners from all over the world. Here, you can exchange creative experiences, receive professional advice, and make like-minded friends, growing and inspiring more creative ideas together.
+3. **AI-Assisted Creation**
+   Have you ever been stuck in a creative rut, unable to find inspiration despite racking your brains? Don't worry, our AI assistant is always on standby, providing a wisdom-filled inspiration booster. With AI's creative assistance, you will continuously spark new ideas, connecting seemingly unrelated dots into the most brilliant pictures, bringing words to life on paper and making videos more vivid and moving.
 
-### Explore infinite possibilities
+   ### How to Try Babelyx?
 
-Possibilities already exist, waiting for you to discover them. Babelyx is committed to enabling everyone to surpass themselves, break through conventions, and explore unknown possibilities. From weaving words to imagining images, and presenting videos, there are no boundaries. Uphold your rights and achieve infinite possibilities.
+   We are proud to announce that, as a small startup team, we have successfully launched the Babelyx application, available as [Web, iOS, Android apps and more](https://links.babelyx.com)!
 
-In the future of AI's rise, creativity is your unique mystery and the driving force behind the world's development. We invite you to join the Web3 creator community, unlock your creativity, and explore all possibilities. Here, you will discover that behind every creation, there is a story, and behind every NFT, there is an emotion.
+   Building on our technology and products, we collaborate with partners across various industries and sectors to expand a rich array of application scenarios and business models. We can enhance traditional internet applications or create entirely new decentralized applications.
 
-[**Claim credits to experience Babelyx now!**](https://u.babelyx.com)
+   Babelyx supports everyone in constructing a universe of infinite possibilities! Let data return to individuals, free from the control of monopolistic platforms. Break through the platform-centric traffic economy of the traditional internet and usher in a decentralized economy centered on individual rights.
 
----
-
-**[🔙️ Contents Table](./README.md)**
+   [🎁 Claim your reward and try it now](https://u.babelyx.com/)

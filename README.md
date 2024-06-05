@@ -4,7 +4,8 @@
 
 - [What is Babelyx?](./home.md)
 - [Feature Updates](./news.md)
-- [How to create an Aipp?](./howto/create-aipp.md)
+- [How to](./howto/)
+  - [create an Aipp?](./howto/create-aipp.md)
 
 Talk is cheap, show me the app! [Click here to try it now!](https://u.babelyx.com)
 
