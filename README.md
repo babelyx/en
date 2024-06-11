@@ -2,7 +2,7 @@
 
 ## Contents Table
 
-- [What is Babelyx?](./home.md)
+- [What is Babelyx?](./whitepaper.md)
 - [Feature Updates](./news.md)
 - [How to](./howto/)
   - [create an Aipp?](./howto/create-aipp.md)

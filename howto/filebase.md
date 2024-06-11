@@ -28,4 +28,4 @@ You can upload files of following formats:
 
 ---
 
-**[🔙️ 返回目录](../README.md)**
+**[🔙️ Contents Table](../home.md)**
