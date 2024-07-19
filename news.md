@@ -1,6 +1,6 @@
 # Babelyx - Updates & News
 
-[Click here to download Web/Android/iOS apps](https://links.babelyx.com)
+[Available on all platforms: Web/Android/iOS](https://links.babelyx.com)
 
 ### 2024-02-08 New Edition on AppStore & Google Play
 

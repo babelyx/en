@@ -18,7 +18,7 @@ Babelyx is a decentralized UGC community and autonomous marketplace. Through its
 
 The NFT market has seen exponential growth since 2021, primarily within the digital art space. However, current NFT technology lacks comprehensive privacy and security features, limiting its broader application. Besides, only creators and fans are involved in the economics of NFT.
 
-Babelyx's proprietary BLX technology, through encrypted content attestation (Sealed NFTs) and a smart contract-based marketplace (Smart-contracted Marketplace), comprehensively protects user rights and interests, while also facilitating the automatic circulation and appreciation of digital assets, thereby expanding Web3 applications to all possible digital content.
+Babelyx's proprietary BLX technology, through encrypted content attestation (Safe NFTs) and a smart contract-based marketplace (Smart-contracted Marketplace), comprehensively protects user rights and interests, while also facilitating the automatic circulation and appreciation of digital assets, thereby expanding Web3 applications to all possible digital content.
 
 ### Target Market
 
@@ -33,7 +33,7 @@ Babelyx targets a diverse range of users, including:
 
 Babelyx differentiates itself from competitors by:
 
-1. **Enhanced Security:** Utilizing Sealed NFTs that encrypt and securely store content on IPFS.
+1. **Enhanced Security:** Utilizing Safe NFTs that encrypt and securely store content on IPFS.
 2. **Autonomous Marketplaces:** Embedding smart contracts within each NFT to facilitate decentralized transactions.
 3. **AI-Assisted Creation:** Offering powerful AI tools to assist creators in generating high-quality content.
 4. **User Empowerment:** Ensuring users retain full ownership and control over their digital assets.
@@ -42,7 +42,7 @@ Babelyx differentiates itself from competitors by:
 
 ### Key Features
 
-1. **Sealed NFTs:** Secure, encrypted digital assets stored on IPFS, preventing unauthorized access and distribution.
+1. **Safe NFTs:** Secure, encrypted digital assets stored on IPFS, preventing unauthorized access and distribution.
 2. **Smart Marketplaces:** Autonomous marketplaces powered by smart contracts, enabling decentralized transactions and role-based access.
 3. **AI-Assisted Creation:** AI tools to help creators overcome creative blocks and enhance their content.
 4. **Multi-Role Contracts:** Smart contracts defining various roles (creator, visitor, buyer, owner) and their associated rights and benefits.
@@ -72,7 +72,7 @@ Babelyx differentiates itself from competitors by:
 
 ### Phase 1: Development and Launch
 
-1. **Platform Development:** Complete development of core features, including Sealed NFTs, smart marketplaces, and AI tools.
+1. **Platform Development:** Complete development of core features, including Safe NFTs, smart marketplaces, and AI tools.
 2. **Beta Testing:** Conduct beta testing with a select group of users to gather feedback and make improvements.
 3. **Official Launch:** Launch Babelyx on web, Android, and iOS platforms.
 

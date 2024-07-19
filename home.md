@@ -11,4 +11,6 @@ Talk is cheap, show me the app! [Click here to try it now!](https://u.babelyx.co
 
 ---
 
+🔍 Contents on this site are simultaneously published on various major platforms (X, Facebook, Youtube, etc.). Please [search and follow Babelyx across the internet](https://links.babelyx.com) ！
+
 🌐 Looking for local services in China? Take a look at [巴贝历 - 中国区](https://lib.cn.babelyx.com)
