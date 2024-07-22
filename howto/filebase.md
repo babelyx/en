@@ -1,30 +1,38 @@
-# How to setup a knowledge base for Aipp?
+# How to upload files to Aipp?
 
 You can upload files of following formats:
 
-| FILE FORMAT | MIME TYPE                                                                   |
-| ----------- | --------------------------------------------------------------------------- |
-| `.c`        | `text/x-c`                                                                  |
-| `.cs`       | `text/x-csharp`                                                             |
-| `.cpp`      | `text/x-c++`                                                                |
-| `.doc`      | `application/msword`                                                        |
-| `.docx`     | `application/vnd.openxmlformats-officedocument.wordprocessingml.document`   |
-| `.html`     | `text/html`                                                                 |
-| `.java`     | `text/x-java`                                                               |
-| `.json`     | `application/json`                                                          |
-| `.md`       | `text/markdown`                                                             |
-| `.pdf`      | `application/pdf`                                                           |
-| `.php`      | `text/x-php`                                                                |
-| `.pptx`     | `application/vnd.openxmlformats-officedocument.presentationml.presentation` |
-| `.py`       | `text/x-python`                                                             |
-| `.py`       | `text/x-script.python`                                                      |
-| `.rb`       | `text/x-ruby`                                                               |
-| `.tex`      | `text/x-tex`                                                                |
-| `.txt`      | `text/plain`                                                                |
-| `.css`      | `text/css`                                                                  |
-| `.js`       | `text/javascript`                                                           |
-| `.sh`       | `application/x-sh`                                                          |
-| `.ts`       | `application/typescript`                                                    |
+| Knowledge files | Template files | MIME TYPE                                                                 |
+| --------------- | -------------- | ------------------------------------------------------------------------- |
+| .c              | .c             | text/x-c                                                                  |
+| .cs             | .cs            | text/x-csharp                                                             |
+| .cpp            | .cpp           | text/x-c++                                                                |
+| .doc            | .doc           | application/msword                                                        |
+| .docx           | .docx          | application/vnd.openxmlformats-officedocument.wordprocessingml.document   |
+| .html           | .html          | text/html                                                                 |
+| .java           | .java          | text/x-java                                                               |
+| .json           | .json          | application/json                                                          |
+| .md             | .md            | text/markdown                                                             |
+| .pdf            | .pdf           | application/pdf                                                           |
+| .php            | .php           | text/x-php                                                                |
+| .pptx           | .pptx          | application/vnd.openxmlformats-officedocument.presentationml.presentation |
+| .py             | .py            | text/x-python                                                             |
+| .rb             | .rb            | text/x-ruby                                                               |
+| .tex            | .tex           | text/x-tex                                                                |
+| .txt            | .txt           | text/plain                                                                |
+| .css            | .css           | text/css                                                                  |
+| .js             | .js            | text/javascript                                                           |
+| .sh             | .sh            | application/x-sh                                                          |
+| .ts             | .ts            | application/typescript                                                    |
+|                 | .csv           | application/csv                                                           |
+|                 | .jpeg          | image/jpeg                                                                |
+|                 | .jpg           | image/jpeg                                                                |
+|                 | .gif           | image/gif                                                                 |
+|                 | .png           | image/png                                                                 |
+|                 | .tar           | application/x-tar                                                         |
+|                 | .xlsx          | application/vnd.openxmlformats-officedocument.spreadsheetml.sheet         |
+|                 | .xml           | application/xml or "text/xml"                                             |
+|                 | .zip           | application/zip                                                           |
 
 ---
 
