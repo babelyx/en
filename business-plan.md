@@ -139,4 +139,4 @@ Babelyx is at the forefront of a transformative shift in digital content creatio
 
 ---
 
-**[🔙️ Contents Table](./home.md)**
+**[🔙️ Back to Home](./home.md)**

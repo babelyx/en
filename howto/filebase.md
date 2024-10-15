@@ -36,4 +36,4 @@ You can upload files of following formats:
 
 ---
 
-**[🔙️ Contents Table](../home.md)**
+**[🔙️ Back to Home](../home.md)**

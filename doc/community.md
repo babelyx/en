@@ -45,3 +45,7 @@ Want to have your own AI site? Want to train your own model? We can provide you 
 - Self-promotion marketing
 
 Please contact us for more details.
+
+---
+
+**[🔙️ Back to Home](../home.md)**

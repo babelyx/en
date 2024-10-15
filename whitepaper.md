@@ -1,8 +1,8 @@
-# Babelyx - Smart Market of Your Content
+# Babelyx - Monetize Any Content for Everyone's Possibilities
 
 [🎁 Claim your reward and step in Babelyx now!](https://u.babelyx.com/)
 
-What wonders can arise when UGC embraces Web3? **Babelyx** , the Tower of Babel for everyone's possibilities, mints any possible content into encrypted Sovereign Assets that autonomously circulate in the Smart Market, continuously increasing every participant's passive incomes and perpetual rights.
+What wonders can arise when UGC embraces Web3? **Babelyx** , the Tower of Babel for everyone's possibilities, transforms any possible content into encrypted Sovereign Assets that autonomously circulate in the Smart Market, continuously increasing every participant's passive income and perpetual rights.
 
 ### What is Babelyx?
 
@@ -20,9 +20,9 @@ In Eastern Buddhism, there's also the concept of **Three Thousand Great Thousand
 
 ![Image](./images/pitchdeck/Slide2.jpeg)
 
-We all know that what you post on the internet does not truly belong to you, but rather to social media oligopolies like Facebook, TikTok, X, and other centralized platforms. Your revenue does not come from your content, but rather from attracting sufficient traffic at first through your content, which then allows you to engage in sales, advertising, and other business activities to earn profits. All of this depends entirely on the traffic allocation by social media platforms at their interests. Content censoring, surveillance, blockade, or outright banning can happen at the whim of their operators.
+We all know that what you post on the internet does not truly belong to you, but rather to social media oligopolies like Facebook, TikTok, X, and other centralized platforms. Your revenue does not come from your content, but rather from attracting sufficient traffic at first through your content, which then allows you to engage in sales, advertising, or other business activities to earn profits. All of this depends entirely on the traffic allocation by social media platforms at their interests. Content censoring, surveillance, blockade, or outright banning can happen at the whim of their operators.
 
-This is why Web3 emerged. Especially, since its rise in 2021, NFT technology has garnered significant attention, transforming digital content into unique assets and forging direct, intimate connections between creators, fans, sponsors, and investors. (See [NFTs: Empowering Creators in the Digital World](https://learn.metamask.io/lessons/nfts-and-creators))
+This is why Web3 emerged. Especially, since its rise in 2021, NFT technology has garnered significant attention, transforming digital content into unique assets and forging direct, intimate connections between creators, fans, sponsors, and investors.
 
 However, **NFTs are merely "safe token of unsafe data"**. While the NFTs themselves are unreplicable and tamper-proof through blockchain technology, the actual data behind NFT is still as vulnerable as traditional internet (Web2) content, lacking privacy protection and being accessible, copyable and even tamperable by anyone. This vulnerability limits the application scenarios of NFT technology. Up until now, NFT is primarily only thriving in the digital art market. Moreover, the high technical barrier severely hinders the user experience for average users, preventing the wider adoption of Web3.
 
@@ -34,7 +34,7 @@ Yes, we can! For more possibilities for everyone, we invented the BLX technology
 
 Babelyx transforms any possible content into **Sovereign Assets** that autonomously circulate in the **Smart Market** to perpetually increase every participant's **Passive Income**, unleashing infinite possibilities for everyone.
 
-As a user, by creating any content you get an encrypted asset and an autonomous store, bringing you continuous revenue forever.
+As a user, by creating any content you get an encrypted asset and an autonomous store, you can receive continuous revenue forever.
 
 This is facilitated by our patented BLX technology that seamlessly integrates data security of IPFS, digital ownership of NFTs, and smart contracts of Ethereum, along with powerful AIGC technologies, providing you with an unprecedented experience, rights and rewards.
 
@@ -44,13 +44,13 @@ Babelyx features:
 
 ##### Sovereign Asset
 
-User-generated content is minted to Sovereign Content Assets by following steps:
+User-generated content is transformed into Sovereign Content Assets by following steps:
 
 1. At first the actual content is stored in the decentralized content-addressing system IPFS;
 2. Then, hash addresses of the content and their stakeholders are encrypted into a "**Sovereign Content Certificate**" and stored in IPFS;
 3. Finally, the certificate pointing to the encrypted content is minted into a "**Sovereign Content Token**" on a blockchain, also known as "Safe NFT" that ensurs not only the safe ownership, but also the safe content, constituting an inseparable whole.
 
-UGC ==> Sovereign Content Certificate in IPFS ==> Sovereign Content Token (Safe NFT) on Blockchain
+User Content ==> Sovereign Content Certificate in IPFS ==> Sovereign Content Token (Safe NFT) on Blockchain
 
 Through these steps, while the certificate and token remains public, the actual content is fundamentally prevented from unauthorized access, copying, distribution, and tampering. For instance, others must pay a decryption fee to the content owner, to be able to access the actual content through a decentralized mechanism.
 
@@ -60,7 +60,7 @@ Therefore, the sovereign asset not only ensure your ownership, but also goes fur
 
 Babelyx not only transforms user content into a static sovereign asset but also generates a self-running store, thereby creating a smart marketplace. This is powered by Role Pacts that are stored as part of the sovereign content certificates. Role pacts are smart contracts defining rights and benefits of different market roles. Through Role Pacts, the underlying asset can circulate and appreciate automatically among various participant roles, perpetually increasing every participant's revenue. For example:
 
-- **Creator Pact** is an intrinsic part of the sovereign content asset. Once some piece of content is minted, the content creator becomes an indelible, unalterable and permanent property of the sovereign content. In all subsequent appreciation of this asset, the original creator will automatically receive corresponding returns according to the Creator Pact.
+- **Creator Pact** is an intrinsic part of the sovereign content asset. Once some piece of content is transformed into an asset, the content creator becomes an indelible, unalterable and permanent property of the sovereign content. In all subsequent appreciation of this asset, the original creator will automatically receive corresponding returns according to the Creator Pact.
 - **Visitor Pact** defines a decryption fee for visitors. Other user must pay the decryption fee to be able to visit the original content. Anyone else cannot decrypt the asset to see, copy or download the actual content. If the creator does't set a decription fee, it's default to 0, henceforce the content is open to public just like in a traditional UGC platform.
 - **Holder Pact** defines a purchase fee for buyers. A user who pays the purchase fee becomes a "holder" of a certain share of the asset. Holding rights apply to limited-supply shareable assets such as book copies, movie tickets, membership statuses, restaurant seats, rental time slots, etc. Users can transfer their limited slots at new prices to other holders, promoting sharing, circulation, and appreciation.
 - **Owner Pact** keeps track of the current owner of the asset and the buyout price for full ownership. Other users can acquire the asset by purchasing it outright, becoming the new owner. Each asset can only belong to one owner at any given time. The majority of the asset's revenue is enjoyed by its current owner.
@@ -69,6 +69,10 @@ Babelyx not only transforms user content into a static sovereign asset but also 
 Thus, Role Pacts transforms user content to a perpetual self-running store supporting the asset to circulate and appreciate among different market roles automatically, providing long-term revenue for all stakeholders and maintaining high enthusiasm for various user types.
 
 ##### Passive Income
+
+Babelyx devotes itself to a world where users reign supreme! Let data return to individuals, let rights and incomes return to the true owner. Break through centralized traffic-centric economy of the traditional internet and usher in a decentralized economy centered on individual rights.
+
+More to be added here...
 
 ##### AI-Assisted Creation
 
@@ -84,12 +88,12 @@ Building on our technology and products, we collaborate with partners across var
 
 ### Where to get Babelyx?
 
-Babelyx supports everyone in realizing values in a universe of infinite possibilities! Let data return to individuals, let rights and incomes return to the true owner. Break through centralized traffic-centric economy of the traditional internet and usher in a decentralized economy centered on individual rights.
+Babelyx supports everyone in realizing more values in a universe of infinite possibilities! Try it now to monetize your contents, claim your rights and earn passive income, forever!
 
-Step into **Babelyx** to monetize your contents, claim your rights and earn passive incomes, forever!
+Talk is cheap, show me the app!
 
-Talk is cheap, show me the app. [🎁 Claim your reward and step in Babelyx now!](https://u.babelyx.com/)
+[🎁 Claim your reward and step in Babelyx now!](https://u.babelyx.com/)
 
 ---
 
-**[🔙️ Contents Table](./home.md)**
+**[🔙️ Back to Home](./home.md)**

@@ -22,4 +22,4 @@ You can also share the assistant with your friends, so go ahead and show it off!
 
 ---
 
-**[🔙️ Contents Table](../home.md)**
+**[🔙️ Back to Home](../home.md)**

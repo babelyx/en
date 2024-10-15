@@ -11,4 +11,4 @@ Whenever a user uses an Aipp you've created, you will receive corresponding inco
 
 ---
 
-**[🔙 Contents Table](../home.md)**
+**[🔙 Back to Home](../home.md)**

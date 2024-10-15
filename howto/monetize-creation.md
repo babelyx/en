@@ -1,6 +1,6 @@
 # How to transform your content into an asset that provides you with everlasting revenue?
 
-Babelyx transforms every user content to an asset and a store. The asset circulates and appreciates among different market roles, providing long-term stable income for all stakeholders.
+Babelyx monetizes user-generated content. Your digital content is transformed into rock-solid assets that circulate and appreciate in a smart market, generating long-term stable income for you.
 
 This is powered by Role Pacts.
 
@@ -8,4 +8,4 @@ to be continued...
 
 ---
 
-**[🔙 Contents Table](../home.md)**
+**[🔙 Back to Home](../home.md)**

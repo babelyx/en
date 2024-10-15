@@ -106,3 +106,7 @@ Data Controller. For the purposes of the UK and EU General Data Protection Regul
     We may change this Privacy Policy at any time. When we do, we will post an updated version on this page, unless another type of notice is required by applicable law. By continuing to use our Service or providing us with Personal Information after we have posted an updated Privacy Policy, or notified you by other means, you consent to the revised Privacy Policy.
 11. How to contact us
     Please contact support if you have any questions or concerns not already addressed in this Privacy Policy.
+
+---
+
+**[🔙️ Back to Home](../home.md)**
