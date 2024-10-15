@@ -48,4 +48,4 @@ Please contact us for more details.
 
 ---
 
-**[🔙️ Back to Home](../home.md)**
+[**🔙️ Back to Home**](../home.md)

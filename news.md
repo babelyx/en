@@ -40,4 +40,4 @@ Dear China users, due to local policies in China, to continue serving you, the l
 
 ---
 
-**[🔙️ Back to Home](./home.md)**
+[**🔙️ Back to Home**](./home.md)

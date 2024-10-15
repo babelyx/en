@@ -109,4 +109,4 @@ Data Controller. For the purposes of the UK and EU General Data Protection Regul
 
 ---
 
-**[🔙️ Back to Home](../home.md)**
+[**🔙️ Back to Home**](../home.md)

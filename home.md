@@ -17,4 +17,4 @@ We'd love to hear from you! Send us an email to [hi@babelyx.com](mailto:hi@babel
 
 ---
 
-🌐 寻找中国区服务？请访问 **[巴贝历 - 中国区](https://lib.cn.babelyx.com)**
+🌐 寻找中国区服务？请访问 [**巴贝历 - 中国区**](https://lib.cn.babelyx.com)

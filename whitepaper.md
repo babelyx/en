@@ -96,4 +96,4 @@ Talk is cheap, show me the app!
 
 ---
 
-**[🔙️ Back to Home](./home.md)**
+[**🔙️ Back to Home**](./home.md)

@@ -117,4 +117,4 @@ Written claims concerning copyright infringement must include the following info
 
 ---
 
-**[🔙️ Back to Home](../home.md)**
+[**🔙️ Back to Home**](../home.md)
