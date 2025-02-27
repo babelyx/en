@@ -2,6 +2,8 @@
 
 [Available on all platforms: Web/Android/iOS](https://links.babelyx.com)
 
+### ---
+
 ### 2024-02-08 New Edition on AppStore & Google Play
 
 Happy Lunar New Year edition is now available on both AppStore and Google Play!
