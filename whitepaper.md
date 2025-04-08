@@ -86,9 +86,9 @@ You can be a student, a gamer, a traveller, a designer, or anyone who had post s
 
 Building on our technology and products, we collaborate with partners across various industries and sectors to expand a rich array of application scenarios and business models. We can enhance traditional internet applications or create entirely new decentralized applications.
 
-### Where to get Babelyx?
+### Where to try Babelyx?
 
-Babelyx supports everyone in realizing more values in a universe of infinite possibilities! Try it now to monetize your contents, claim your rights and earn passive income, forever!
+Babelyx supports everyone in realizing more values in a universe of infinite possibilities! Try it now to monetize your creation, claim your rights and earn passive income, forever!
 
 Talk is cheap, show me the app!
 
