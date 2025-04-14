@@ -21,4 +21,4 @@ We'd love to hear from you! Send us an email to [hi@babelyx.com](mailto:hi@babel
 
 ---
 
-✨ Babelyx is powered by Faronear. Visit [Faronear](https://faronear.com) to discover more innovatice and cutting-edge applications.
+✨ Babelyx is powered by [Faronear](https://faronear.com)
