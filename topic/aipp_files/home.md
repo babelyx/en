@@ -36,4 +36,4 @@ You can upload files of following formats:
 
 ---
 
-[**🔙️ Back to Home**](../home.md)
+[**🔙️ Back to Home**](../../home.md)

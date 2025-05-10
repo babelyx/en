@@ -2,7 +2,7 @@
 
 [Available on all platforms: Web/Android/iOS](https://links.babelyx.com)
 
-### ---
+---
 
 ### 2024-02-08 New Edition on AppStore & Google Play
 
@@ -42,4 +42,4 @@ Dear China users, due to local policies in China, to continue serving you, the l
 
 ---
 
-[**🔙️ Back to Home**](./home.md)
+[**🔙️ Back to Home**](../home.md)

@@ -2,7 +2,7 @@
 
 Click to watch the video! Create your first AI app in one minute.
 
-<a target="_blank" href="https://youtu.be/iSoSfhOCN3w?si=HNeLy_Eupc_SlKRi" title="一分钟学会AI：拥有我的英语小秘书"><img src="../images/20240226-video-cover.jpg" alt="一分钟学会AI：拥有我的英语小秘书" width="200" height="200"/></a>
+<a target="_blank" href="https://youtu.be/iSoSfhOCN3w?si=HNeLy_Eupc_SlKRi" title="一分钟学会AI：拥有我的英语小秘书"><img src="./images/20240226-video-cover.jpg" alt="一分钟学会AI：拥有我的英语小秘书" width="200" height="200"/></a>
 
 First step, click on "Create Aipp".
 
@@ -22,4 +22,4 @@ You can also share the assistant with your friends, so go ahead and show it off!
 
 ---
 
-[**🔙️ Back to Home**](../home.md)
+[**🔙️ Back to Home**](../../home.md)

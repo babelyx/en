@@ -7,8 +7,8 @@ Whenever a user uses an Aipp you've created, you will receive corresponding inco
 - `User price = base model cost + creator profit`. Other users will see your Aipp priced at `0.3¢/KChar + (0.3¢/KChar x 0.5) = 0.45¢/word`.
 - `Creator profit = user usage * base model cost * creator profit margin`. Assuming your app is used for a total of 25,000 KChar by other users, you will earn `25,000 * 0.3¢/KChar * 0.5 = 3750¢`.
 
-<img src="../images/how-to-earn-money-1.png" alt="Image" width="300">
+<img src="./images/how-to-earn-money-1.png" alt="Image" width="300">
 
 ---
 
-[**🔙 Back to Home**](../home.md)
+[**🔙 Back to Home**](../../home.md)
