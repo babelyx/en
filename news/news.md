@@ -1,6 +1,6 @@
-# Babelyx - Updates & News
+# News about Babelyx
 
-[Available on all platforms: Web/Android/iOS](https://links.babelyx.com)
+[Download Apps: Web, Android, iOS](https://links.babelyx.com)
 
 ---
 
