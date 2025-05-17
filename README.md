@@ -18,9 +18,9 @@
   - [The metaverse of user-generated content](./blog/20250512_The_Metaverse_of_Artifacts/home.md)
   - [From user content media to user values](./blog/20250513_Babelyx_From_User_Content_To_User_Values/home.md)
 
-Talk is cheap, show me the app. [Step in Babelyx now!](https://u.babelyx.com)
+Talk is cheap, show me the app. Try [Babelyx App](https://u.babelyx.com) now!
 
-Please search and follow [Babelyx on various social platforms](https://links.babelyx.com).
+Please search and follow [Babelyx Channels](https://links.babelyx.com) on various social platforms.
 
 We'd love to hear from you! Send us an email to [hi@babelyx.com](mailto:hi@babelyx.com) or leave a message at the [helpdesk](https://csr.babelyx.com).
 
