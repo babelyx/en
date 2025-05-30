@@ -24,11 +24,11 @@
 We'd love to hear from you!
 
 - Send us an email to [hi@babelyx.com](mailto:hi@babelyx.com)
-- Leave a message at our `<a href="https://csr.babelyx.com" target="_blank">`helpdesk `</a>`
-- Search and follow `<a href="https://links.babelyx.com" target="_blank">`Babelyx Channels `</a>` on various social platforms
+- Leave a message at our [helpdesk ](https://csr.babelyx.com)
+- Search and follow [Babelyx Channels ](https://links.babelyx.com) on various social platforms
 
 ---
 
-🚀 Talk is cheap! Show me the `<a href="https://u.babelyx.com" target="_blank">`Babelyx App `</a>`
+🚀 Talk is cheap! Show me the [Babelyx App ](https://u.babelyx.com)
 
 <!-- ✨ Babelyx is powered by [Faronear](https://faronear.com) -->
