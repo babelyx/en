@@ -1,31 +1,34 @@
 # Babelyx - Global
 
-🌐 中文用户请访问 [巴贝历 - 中文区](https://info.cn.babelyx.com)
+🌎 [巴贝历 - 简体中文](https://info.cn.babelyx.com)
 
 ---
 
 ### Content
 
-- [What is Babelyx: The Whitepaper](./topic/whitepaper/home.md)
-- [News](./news/home.md)
+- Introduction
+  - [User Guide: Why use Babelyx?](./intro/user_guide/home.md)
+  - [Whitepaper: Monetize Any Content](./intro/whitepaper/home.md)
+- News
+  - [News and History](./news/home.md)
 - How to
   - [How to create an artifact?](./topic/content_rules/home.md)
   - [How to monetize your creations?](./topic/monetize_creation/home.md)
   - [How to mint an NFT?](./topic/mint_nft/home.md)
 - Blog
-  - [Words are the first metaverse](./blog/20250510_Words_Are_The_First_Metaverse/home.md)
-  - [Artifacts and creators](./blog/20250511_Artifacts_And_Creators/home.md)
-  - [The metaverse of user-generated content](./blog/20250512_The_Metaverse_of_Artifacts/home.md)
-  - [From user content media to user values](./blog/20250513_Babelyx_From_User_Content_To_User_Values/home.md)
+  - [Words are the first metaverse](./blog/20250510_words_arre_the_first_metaverse/home.md)
+  - [Artifacts and creators](./blog/20250511_artifacts_and_creators/home.md)
+  - [The metaverse of user-generated content](./blog/20250512_the_metaverse_of_artifacts/home.md)
+  - [From user content media to user values](./blog/20250513_from_user_content_to_user_values/home.md)
 
-Talk is cheap, show me the app. Try [Babelyx App](https://u.babelyx.com) now!
+We'd love to hear from you!
 
-Please search and follow [Babelyx Channels](https://links.babelyx.com) on various social platforms.
-
-We'd love to hear from you! Send us an email to [hi@babelyx.com](mailto:hi@babelyx.com) or leave a message at the [helpdesk](https://csr.babelyx.com).
+- Send us an email to [hi@babelyx.com](mailto:hi@babelyx.com)
+- Leave a message at our `<a href="https://csr.babelyx.com" target="_blank">`helpdesk `</a>`
+- Search and follow `<a href="https://links.babelyx.com" target="_blank">`Babelyx Channels `</a>` on various social platforms
 
 ---
 
-✨ [Babelyx App](https://babelyx.com)
+🚀 Talk is cheap! Show me the `<a href="https://u.babelyx.com" target="_blank">`Babelyx App `</a>`
 
 <!-- ✨ Babelyx is powered by [Faronear](https://faronear.com) -->

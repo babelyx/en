@@ -1,4 +1,4 @@
-# Babely - Community Rewards Program
+# Babelyx - Community Rewards Program
 
 We hope to explore the new possibilities and new value of artificial intelligence with more partners.
 
